@@ -1,2 +1,2 @@
-export { Dropdown, MenuItemType as MenuItem } from "./Dropdown";
+export { Dropdown, MenuItemType } from "./Dropdown";
 export { DropdownTrigger } from "./DropdownTrigger";

@@ -1,6 +1,6 @@
-import { Dropdown, DropdownTrigger, MenuItem } from "./components";
+import { Dropdown, DropdownTrigger, MenuItemType } from "./components";
 
-const menuItemsExample: MenuItem[] = [
+const menuItemsExample: MenuItemType[] = [
   {
     icon: "share-2",
     label: "Поделиться в социальных сетях",
