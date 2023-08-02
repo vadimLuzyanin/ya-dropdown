@@ -1,0 +1,19 @@
+{
+  "value": 9,
+  "children": [
+    {
+      "value": 5,
+      "children": [
+        { "value": 1 },
+        {
+          "value": 4,
+          "children": [{ "value": 2 }, { "value": 3 }]
+        }
+      ]
+    },
+    {
+      "value": 8,
+      "children": [{ "value": 6 }, { "value": 7 }]
+    }
+  ]
+}
